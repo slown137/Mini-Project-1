@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: palegreen;
+    font-family:'Times New Roman', Times, serif;
+}
+
+header {
+    position: fixed;
+    background-color: aqua;
+    margin: 0;  
+    padding: 0;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    top: 1000px;
+    background-color: hotpink;
+    width: 100%;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    border: 1px solid white;
+    background-color: white;
+}
+
+.navigationLinks {
+    margin-bottom: 5px;
+}
+
+.emailInput {
+
+}
+
+.underHeader {
+    height: 100px;
+}
+
+#contact-form {
+    border: 5px solid white;
+    padding: 5px;
+}
+
+#send-button {
+
+}
+
+#above-contact {
+    height: 100px;
+}
